@@ -44,4 +44,3 @@ int r1 = m.Multi(21, 2);  // 42
 int r2 = m.Multi(13);     // 13
 
 int r3 = m.Addition(1, 2, 3, 4, 5);
-
